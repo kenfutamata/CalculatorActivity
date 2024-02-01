@@ -1,0 +1,7 @@
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\bin\Debug\Calculator Activity.exe.config
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\bin\Debug\Calculator Activity.exe
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\bin\Debug\Calculator Activity.pdb
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\obj\Debug\Calculator Activity.csproj.AssemblyReference.cache
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\obj\Debug\Calculator Activity.csproj.CoreCompileInputs.cache
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\obj\Debug\Calculator Activity.exe
+C:\Users\kento\Documents\Temporary files Under Kento\CC-APPSDEV22\Calculator Activity\Calculator Activity\obj\Debug\Calculator Activity.pdb
